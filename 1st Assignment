@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+   <head><title>Assignment</title>
+    <body bgcolor="White">
+<h1>Table</h1>
+  <p><b><i>Name:OTELLA L DUN</i></b></p>
+       <table border="2">
+           <tr>
+             <th>Names</th>
+        
+           <th colspan="2">Marks</th>
+          
+           </tr>
+           <tr>
+              <td>Daphine</td>
+              <td>50</td>
+              <td>60</td>
+           </tr>
+           <tr>
+              <td>Peter</td>
+              <td colspan="2" rowspan="2" align="center">60</td>
+           </tr>
+           <tr>
+              <td>Paul</td>
+           </tr>
+           <tr>
+       </table>
+    </body>
+   </head>
+</html
